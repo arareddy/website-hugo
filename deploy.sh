@@ -2,13 +2,14 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+rm -r public/
 # Build the project.
 hugo -t academic # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder
-# cd public
+cd public/
 # Add changes to git.
-git add -A
+git add .
 
 # Commit changes.
  msg="rebuilding site `date`"
@@ -21,4 +22,6 @@ git add -A
   git push origin master
 
   # Come Back
+
+  cd ../
   git subtree push --prefix=public git@github.com:arareddy/arareddy.github.io.git public
