@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Procrastination on Aravind Reddy</title>
+    <link>https://aravindreddy.org/tags/procrastination/</link>
+    <description>Recent content in Procrastination on Aravind Reddy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Aravind Reddy</copyright>
+    <lastBuildDate>Mon, 21 Aug 2017 12:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/procrastination/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ugly Duckling theorem</title>
+      <link>https://aravindreddy.org/post/getting-started/</link>
+      <pubDate>Mon, 21 Aug 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://aravindreddy.org/post/getting-started/</guid>
+      <description>&lt;p&gt;Yes, I know, my last post said that I would be shifting my blog from wordpress to a  &lt;del&gt;Jekyll&lt;/del&gt; Hugo based blog hosted with Github pages. But I&amp;rsquo;m procrastinating. Anyway, putting that aside, let&amp;rsquo;s get to the meat of the post. Check out the Ugly duckling theorem. It&amp;rsquo;s pretty dope. I encountered it in the introductory lecture slides for the course on Machine Learning I&amp;rsquo;m doing right now(yikes! ML ooh).&lt;/p&gt;
+
+&lt;p&gt;Yeah, don&amp;rsquo;t judge me. I&amp;rsquo;m not doing ML because EVERYONE is doing ML but because I need to complete a couple of courses from a subset of CS courses to get my CS degree from IITK and it so happens that among those courses, ML is the most theoretical(the other courses are mostly from systems and I (sort of) despise systems courses).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
