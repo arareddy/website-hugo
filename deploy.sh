@@ -2,12 +2,20 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+git rm -r public
 rm -r public/
+
+git submodule add --force git@github.com:arareddy/arareddy.github.io.git public
+
+git add .
+git push -u origin master
+
 # Build the project.
 hugo -t academic # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder
 cd public/
+
 # Add changes to git.
 git add .
 
@@ -23,5 +31,4 @@ git add .
 
   # Come Back
 
-  cd ../
-  git subtree push --prefix=public git@github.com:arareddy/arareddy.github.io.git public
+cd ../
