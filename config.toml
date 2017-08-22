@@ -1,4 +1,4 @@
-baseurl = "https://aravindreddy.org/"  # End your URL with a `/` trailing slash.
+baseurl = "http://aravindreddy.org/"  # End your URL with a `/` trailing slash.
 title = "Aravind Reddy"
 copyright = "&copy; 2017 Aravind Reddy"
 theme = "academic"
@@ -9,7 +9,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 # disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-# googleAnalytics = ""
+ googleAnalytics = "UA-105054014-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
