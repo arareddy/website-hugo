@@ -28,4 +28,4 @@ weight = 1
 
 I am a senior undergraduate student at Indian Insitute of Technology Kanpur(IITK) majoring in Computer Science and Engineering with minors in Quantum Mechanics. I am interested in pursuing a PhD in theoretical computer science with a focus on Quantum Computing. To that end, I'll be applying to CS graduate schools for positions starting from Fall 2018. 
 
-My [CV](http://aravindreddy.org/CV.pdf)
+My [CV](http://aravindreddy.org/CV_Aravind.pdf)
