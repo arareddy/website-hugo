@@ -1,7 +1,7 @@
 ---
 title: "Research Internship advice"
 date: 2017-10-11T23:06:09+05:30
-draft: false
+draft: true
 ---
 
 This post is mainly meant for undergraduate students at IIT Kanpur.
