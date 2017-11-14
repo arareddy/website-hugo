@@ -12,8 +12,8 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Computational Complexity",
     "Quantum Computing",
+    "Computational Complexity",
     "Cryptography"
   ]
 
