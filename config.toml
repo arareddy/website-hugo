@@ -1,6 +1,6 @@
 baseurl = "http://aravindreddy.org"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Aravind Reddy"
-copyright = "&copy; 2017 Aravind Reddy"
+copyright = "&copy; 2018 Aravind Reddy"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
