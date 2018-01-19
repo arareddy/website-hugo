@@ -5,7 +5,7 @@ tags: []
 draft: false
 ---
 
-It is that time of the year where we are bombarded by New years resolutions I don't have a resolution to make but I want to share something similar. In the course of one single semester(Fall 2017), I gained around 6kgs. From being around 72kgs, my body weight increased to 78kgs. Before I left for Paris my weight was even lesser, it was something around 69 kilos. I came back home to Hyderabad, after one of the most straining, most sleep deprived, most  sugar laden periods of my life. This is despite me watching several videos  earlier on how sugar was as addictive(if not more) than cocaine. I'm refreshing my memory and also adding some more links.
+It is that time of the year where we are bombarded by New years resolutions. I don't have a resolution to make but I want to share something similar. In the course of one single semester(Fall 2017), I gained around 6kg. From being around 72kg, my body weight increased to 78kg. Before I left for Paris(May 2017), it was around 69kg. I came back home to Hyderabad after one of the most straining, sleep deprived, sugar laden periods of my life. This is despite me having watched several videos earlier on how sugar was as addictive(if not more) than cocaine. I'm refreshing my memory and also adding some more links.
 
 [Fed up](https://youtu.be/Y647tNm8nTI) - the original is on Netflix.
 
