@@ -23,6 +23,4 @@ weight = 1
 
 # Biography
 
-I am a senior undergraduate student at [Indian Institute of Technology Kanpur](http://iitk.ac.in) majoring in [Computer Science and Engineering](https://cse.iitk.ac.in) and minoring in Physics. In Fall 2018, I'll be joining the [CS theory group](https://theory.eecs.northwestern.edu) at [Northwestern University](http://www.northwestern.edu) as a PhD student.
-
-My [CV](http://aravindreddy.org/CV.pdf) - last updated for grad school applications.
+I recently finished my undergraduate studies from [Indian Institute of Technology Kanpur](http://iitk.ac.in) majoring in [Computer Science and Engineering](https://cse.iitk.ac.in) and minoring in Physics. In Fall 2018, I'll be joining the [CS theory group](https://theory.eecs.northwestern.edu) at [Northwestern University](http://www.northwestern.edu) as a PhD student.
