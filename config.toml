@@ -210,7 +210,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "file-pdf-o"
     icon_pack = "fa"
-    link = "http://aravindreddy.org/CV.pdf"
+    link = "/CV.pdf"
 
   [[params.social]]
     icon = "google-scholar"
