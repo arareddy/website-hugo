@@ -15,12 +15,12 @@ weight = 1
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD, Computer Science"
+  course = "PhD in Computer Science"
   institution = "Northwestern University"
-  year = 2023
+  year = 2023(Expected)
   
 [[education.courses]]
-  course = "BTech, Computer Science and Engineering"
+  course = "BTech in Computer Science and Engineering"
   institution = "IIT Kanpur"
   year = 2018
  
