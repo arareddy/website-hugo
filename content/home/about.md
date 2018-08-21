@@ -17,7 +17,7 @@ weight = 1
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "Northwestern University"
-  year = 2023(Expected)
+  year = 2023
   
 [[education.courses]]
   course = "BTech in Computer Science and Engineering"
