@@ -208,9 +208,9 @@ defaultContentLanguageInSubdir = false
     link = "mailto:arareddy@cse.iitk.ac.in"
 
   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/arareddy"
+    icon = "cv"
+    icon_pack = "ai"
+    link = "http://aravindreddy.org/CV.pdf"
 
   [[params.social]]
     icon = "google-scholar"
