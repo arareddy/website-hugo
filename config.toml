@@ -208,8 +208,8 @@ defaultContentLanguageInSubdir = false
     link = "mailto:arareddy@cse.iitk.ac.in"
 
   [[params.social]]
-    icon = "cv"
-    icon_pack = "ai"
+    icon = "file-pdf"
+    icon_pack = "fa"
     link = "http://aravindreddy.org/CV.pdf"
 
   [[params.social]]
