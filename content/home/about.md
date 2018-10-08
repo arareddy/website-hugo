@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2018-4-5T00:00:00"
+date = "2018-10-08T00:00:00"
 
 # Order that this section will appear in.
 weight = 1
@@ -28,4 +28,4 @@ weight = 1
 
 # Biography
 
-I recently finished my undergraduate studies from [Indian Institute of Technology Kanpur](http://iitk.ac.in) majoring in [Computer Science and Engineering](https://cse.iitk.ac.in) and minoring in Physics. In Fall 2018, I'll be joining the [CS theory group](https://theory.eecs.northwestern.edu) at [Northwestern University](http://www.northwestern.edu) as a PhD student.
+I am a first year PhD student at [Northwestern University](http://www.northwestern.edu) in the [CS theory group](https://theory.eecs.northwestern.edu) and am presently advised by [Anindya De](http://users.eecs.northwestern.edu/~anindya/). Before joining Northwestern, I was an undergraduate student at IIT Kanpur where I majored in Computer Science and Engineering and minored in Physics.
