@@ -29,3 +29,5 @@ weight = 1
 # Biography
 
 I am a first year PhD student at [Northwestern University](http://www.northwestern.edu) in the [CS theory group](https://theory.eecs.northwestern.edu) and am presently advised by [Anindya De](http://users.eecs.northwestern.edu/~anindya/). Before joining Northwestern, I was an undergraduate student at IIT Kanpur where I majored in Computer Science and Engineering and minored in Physics.
+
+Broadly, I am interested in all areas of theoretical computer science. Presently, I am learning about Pseudorandom generators, Mechanism Design and Stochastic Analysis. I also have peripheral interests in Cryptography and Quantum Computing.
