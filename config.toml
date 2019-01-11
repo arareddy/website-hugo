@@ -1,6 +1,6 @@
 baseurl = "http://aravindreddy.org"  # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 title = "Aravind Reddy"
-copyright = "&copy; 2018 Aravind Reddy"
+copyright = "&copy; 2019 Aravind Reddy"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -9,7 +9,7 @@ preserveTaxonomyNames = true
 paginate = 10
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "aravindreddy"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-105054014-1"
@@ -205,7 +205,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:arareddy@cse.iitk.ac.in"
+    link = "mailto:arareddy@u.northwestern.edu"
 
   [[params.social]]
     icon = "file-pdf-o"
