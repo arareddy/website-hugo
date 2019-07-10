@@ -48,7 +48,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "arareddy@u.northwestern.edu"
+  email = "aravind.reddy@cs.northwestern.edu"
   address = "2233 Tech Drive, Mudd Room 3018, Evanston, IL 60208-3109"
   office_hours = ""
   phone = "+1 (630) 885-9282"
