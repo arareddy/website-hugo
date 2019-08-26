@@ -30,4 +30,4 @@ weight = 1
 
 I am a <s>first</s> second year PhD student at [Northwestern University](https://www.northwestern.edu) in the [CS theory group](https://theory.cs.northwestern.edu) advised by [Prof. Konstantin Makarychev](http://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Before joining Northwestern, I was an undergrad at IIT Kanpur where I majored in Computer Science and Engineering and minored in Physics.
 
-I am broadly interested in theoretical computer science. Presently, I am working on projects related to [Beyond Worst-Case Analysis](https://arxiv.org/pdf/1806.09817.pdf), and [Combinatorial Optimization](https://arxiv.org/pdf/1711.00405.pdf).
+I am broadly interested in theoretical computer science. Presently, I am working on projects related to [Beyond Worst-Case Analysis](https://cacm.acm.org/magazines/2019/3/234931-beyond-worst-case-analysis/), and [Combinatorial Optimization](https://arxiv.org/pdf/1711.00405.pdf).
