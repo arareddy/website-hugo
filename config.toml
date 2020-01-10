@@ -205,7 +205,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:arareddy@u.northwestern.edu"
+    link = "mailto:aravind.reddy@cs.northwestern.edu"
 
   [[params.social]]
     icon = "file-pdf-o"
