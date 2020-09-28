@@ -1,33 +1,14 @@
 +++
-# About/Biography widget.
-widget = "about"
-active = true
-date = "2018-10-08T00:00:00"
+# About widget.
+widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear in.
 
-# Order that this section will appear in.
-weight = 1
+title = "Biography"
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Theoretical Computer Science"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "Ph.D in Computer Science"
-  institution = "Northwestern University"
-  year = 2023
-  
-[[education.courses]]
-  course = "B.Tech in Computer Science and Engineering"
-  institution = "IIT Kanpur"
-  year = 2018
- 
+# Choose the user profile to display
+# This should be the username of a profile in your `content/authors/` folder.
+# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+author = "admin"
 +++
-
-# Biography
-
-Hi! I am a second-year PhD student at [Northwestern University](https://www.northwestern.edu) in the [CS theory group](https://theory.cs.northwestern.edu) very fortunate to be advised by [Prof. Konstantin Makarychev](http://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Before joining Northwestern, I was an undergrad at [Indian Institute of Technology Kanpur](https://iitk.ac.in) where I majored in Computer Science and Engineering, and minored in Physics.
-
-I am broadly interested in theoretical computer science. Presently, I am working on projects related to Approximation algorithms, Spectral graph theory, and Theoretical machine learning.
