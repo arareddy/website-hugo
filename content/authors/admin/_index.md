@@ -66,6 +66,6 @@ email: "aravind.reddy@cs.northwestern.edu"
 # - Visitors
 ---
 
-Hi! I am a third-year PhD student at [Northwestern University](https://www.northwestern.edu) in the [CS theory group](https://theory.cs.northwestern.edu) very fortunate to be advised by [Prof. Konstantin Makarychev](http://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Before joining Northwestern, I was an undergrad at [Indian Institute of Technology Kanpur](https://iitk.ac.in) where Imajored in Computer Science and Engineering, and minored in Physics.
+Hi! I am a third-year PhD student at [Northwestern University](https://www.northwestern.edu) in the [CS theory group](https://theory.cs.northwestern.edu) very fortunate to be advised by [Prof. Konstantin Makarychev](http://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Before joining Northwestern, I was an undergrad at [Indian Institute of Technology Kanpur](https://iitk.ac.in) where I majored in Computer Science and Engineering, and minored in Physics.
 
 I am broadly interested in theoretical computer science. Presently, I am working on projects related to Approximation algorithms and Theoretical machine learning.
