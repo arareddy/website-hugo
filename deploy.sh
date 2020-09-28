@@ -12,7 +12,7 @@ git add .
 git push -u origin master
 
 # Build the project.
-hugo -t academic # if using a theme, replace by `hugo -t <yourtheme>`
+hugo # if using a theme, replace by `hugo -t <yourtheme>`
 
 # Go To Public folder
 cd public/
