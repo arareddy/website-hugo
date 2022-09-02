@@ -43,7 +43,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:aravind.reddy@cs.northwestern.edu".
 - icon: file-pdf
   icon_pack: far
-  link: files/cv.pdf
+  link: files/resume.pdf
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=PvxNMHYAAAAJ
@@ -66,6 +66,6 @@ email: "aravind.reddy@cs.northwestern.edu"
 # - Visitors
 ---
 
-Hi! I am a fourth-year PhD student at [Northwestern University](https://www.northwestern.edu) in the [CS theory group](https://theory.cs.northwestern.edu) very fortunate to be advised by [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Before joining Northwestern, I was an undergrad at [Indian Institute of Technology Kanpur](https://iitk.ac.in) where I majored in Computer Science and Engineering, and minored in Physics.
+Hi! I am a fifth (and final) year PhD student at [Northwestern University](https://www.northwestern.edu) in the [CS theory group](https://theory.cs.northwestern.edu) very fortunate to be advised by [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Before joining Northwestern, Ispent four wonderful years at [Indian Institute of Technology Kanpur](https://iitk.ac.in) where I majored in Computer Science and Engineering, and minored in Physics.
 
-I am broadly interested in theoretical computer science. My current research interests are mainly in the design and analysis of algorithms for computationally hard problems, especially those which arise in the context of large scale machine learning.
+My research is broadly in the theoretical foundations of machine learning. More specifically, I have worked on projects related to Clustering, Graphical Models, Determinantal Point Processes, Submodular Function Optimization, Streaming Algorithms, and Causal Inference. I am on the job market for postdoc positions with a starting date of July 1, 2023. If you think I might be a good fit for your group, please feel free to contact me.
