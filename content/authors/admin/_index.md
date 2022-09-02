@@ -21,9 +21,12 @@ organizations:
 bio: My research interests include Approximation Algorithms and Theoretical Machine Learning.
 
 interests:
-- Approximation Algorithms
-- Theoretical Machine Learning
-
+- Causal Inference
+- Clustering
+- Determinantal Point Processes
+- Graphical Models
+- Submodular Function Optimization
+ 
 education:
   courses:
   - course: PhD in Computer Science
@@ -66,6 +69,6 @@ email: "aravind.reddy@cs.northwestern.edu"
 # - Visitors
 ---
 
-Hi! I am a fifth (and final) year PhD student at [Northwestern University](https://www.northwestern.edu) in the [CS theory group](https://theory.cs.northwestern.edu) very fortunate to be advised by [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Before joining Northwestern, Ispent four wonderful years at [Indian Institute of Technology Kanpur](https://iitk.ac.in) where I majored in Computer Science and Engineering, and minored in Physics.
+Hi! I am a fifth (and final) year PhD student at [Northwestern University](https://www.northwestern.edu) in the [CS theory group](https://theory.cs.northwestern.edu) very fortunate to be advised by [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Before joining Northwestern, I spent four wonderful years at [Indian Institute of Technology Kanpur](https://iitk.ac.in) where I majored in Computer Science and Engineering, and minored in Physics.
 
-My research is broadly in the theoretical foundations of machine learning. More specifically, I have worked on projects related to Clustering, Graphical Models, Determinantal Point Processes, Submodular Function Optimization, Streaming Algorithms, and Causal Inference. I am on the job market for postdoc positions with a starting date of July 1, 2023. If you think I might be a good fit for your group, please feel free to contact me.
+My research is broadly in the theoretical foundations of machine learning. More specifically, I have worked on projects related to Causal Inference, Clustering, Determinantal Point Processes, Graphical Models, and Submodular Function Optimization. I am on the job market for postdoc positions with a starting date of July 1, 2023. If you think I might be a good fit for your group, please feel free to contact me.
