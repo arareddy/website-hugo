@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Northwestern University
-    year: 2023 (Expected)
+    year: 2023
   - course: BTech in Computer Science and Engineering
     institution: Indian Institute of Technology Kanpur
     year: 2018
@@ -69,6 +69,6 @@ email: "aravind.reddy@cs.northwestern.edu"
 # - Visitors
 ---
 
-Hi! I am a fifth (and final) year PhD student at [Northwestern University](https://www.northwestern.edu) in the [CS theory group](https://theory.cs.northwestern.edu) very fortunate to be advised by [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Before joining Northwestern, I spent four wonderful years at [Indian Institute of Technology Kanpur](https://iitk.ac.in) where I majored in Computer Science and Engineering, and minored in Physics.
+Hello! I recently graduated from [Northwestern](https://www.northwestern.edu) with a PhD in Computer Science. At NU, I was in the [CS theory group](https://theory.cs.northwestern.edu) and was very fortunate to be advised by [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Before joining Northwestern, I spent four wonderful years at [Indian Institute of Technology Kanpur](https://iitk.ac.in) where I majored in Computer Science and Engineering, and minored in Physics. I will be joining as a postdoctoral associate at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org) beginning of July, where my primary mentor will be [Dr. Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic).
 
-My research is broadly in the theoretical foundations of machine learning. More specifically, I have worked on projects related to Causal Inference, Clustering, Determinantal Point Processes, Graphical Models, and Submodular Function Optimization. I am on the job market for postdoc positions with a starting date of July 1, 2023. If you think I might be a good fit for your group, please feel free to contact me.
+My research is broadly in the theoretical foundations of machine learning. More specifically, I have worked on projects related to Causal Inference, Clustering, Determinantal Point Processes, Graphical Models, and Submodular Function Optimization.
