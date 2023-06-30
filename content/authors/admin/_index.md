@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Northwestern University
-  url: "https://www.northwestern.edu/"
+- name: Broad Institute of MIT and Harvard
+  url: "https://www.broadinstitute.org"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Approximation Algorithms and Theoretical Machine Learning.
@@ -60,7 +60,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "aravind.reddy@cs.northwestern.edu"
+email: "talla@broadinstitute.org"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -69,6 +69,6 @@ email: "aravind.reddy@cs.northwestern.edu"
 # - Visitors
 ---
 
-Hello! I recently graduated from [Northwestern](https://www.northwestern.edu) with a PhD in Computer Science. At NU, I was in the [CS theory group](https://theory.cs.northwestern.edu) and was very fortunate to be advised by [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Before joining Northwestern, I spent four wonderful years at [Indian Institute of Technology Kanpur](https://iitk.ac.in) where I majored in Computer Science and Engineering, and minored in Physics. I will be joining as a postdoctoral associate at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org) beginning of July, where my primary mentor will be [Dr. Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic).
+I am a postdoctoral associate at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org), where my primary mentor is [Dr. Victoria Popic](https://www.broadinstitute.org/bios/victoria-popic). I graduated from [Northwestern](https://www.northwestern.edu) with a PhD in Computer Science. At NU, I was in the [CS theory group](https://theory.cs.northwestern.edu) and was very fortunate to be advised by [Prof. Konstantin Makarychev](https://konstantin.makarychev.net/) and [Prof. Aravindan Vijayaraghavan](https://users.eecs.northwestern.edu/~aravindv/). Before joining Northwestern, I spent four wonderful years at [Indian Institute of Technology Kanpur](https://iitk.ac.in) where I majored in Computer Science and Engineering, and minored in Physics. 
 
 My research is broadly in the theoretical foundations of machine learning. More specifically, I have worked on projects related to Causal Inference, Clustering, Determinantal Point Processes, Graphical Models, and Submodular Function Optimization.
