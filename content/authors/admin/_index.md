@@ -50,7 +50,7 @@ social:
 - icon: file-pdf
   icon_pack: far
   link: files/resume.pdf
- - icon: google-scholar
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=PvxNMHYAAAAJ
 #- icon: github
