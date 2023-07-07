@@ -7,7 +7,7 @@ echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 git rm -r public
 rm -r public/
 
-git submodule add --force git@github.com:arareddy/arareddy.github.io.git public
+git submodule add --force https://github.com:arareddy/arareddy.github.io.git public
 
 git add .
 git push -u origin master
